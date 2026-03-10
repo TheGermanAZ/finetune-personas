@@ -14,3 +14,7 @@ wheels/
 .cursorindexingignore
 .idea/
 .vscode/
+
+# Model artifacts (too large for git)
+adapters/
+yoda-model/
